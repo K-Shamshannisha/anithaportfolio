@@ -89,7 +89,7 @@ section {
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(https://www.istockphoto.com/photos/nature);
+    background-image: url('https://www.istockphoto.com/photos/nature');
     background-size: cover;
     background-position: center;
     display: flex;
